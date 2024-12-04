@@ -1,0 +1,43 @@
+
+
+body
+{
+    background-color: FFDEAD ; 
+    font-family: 'consolas'; 
+    font-size: 20px;
+}
+
+#descricao
+{
+    padding-top: 20px;
+}
+
+#titulo
+{
+    font-family: 'georgia';
+    font-size: 30px;
+    color: blue;
+
+}
+
+.listaInteresses li
+{
+    list-style: circle;
+}
+
+footer
+{
+    background-color: DEB887;
+    padding: 20px;  
+}
+.rodape{
+    color: white;
+}
+
+#btn{
+    padding: 10px;
+}
+
+img{
+    padding: 20px;
+}
